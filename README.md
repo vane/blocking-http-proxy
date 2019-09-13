@@ -28,7 +28,7 @@ Arguments:
 ```
 So it can be used like this 
 ```bash
-./main --host 0.0.0.0 00 --port 6666 --block block.yaml
+./main --host 0.0.0.0 --port 6666 --block block.yaml
 ```
 Requests are logged to file ```block.log``` (for blocked requests) and ```allow.log``` (for allowed ones)  
 
