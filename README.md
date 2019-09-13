@@ -4,7 +4,7 @@ blocking-http-proxy
 ## Description
 
 Just blocking stuff that is in ```block.yaml```  
-This code might be a bit ugy cause it's my first code in golang and I know it 
+This code might be a bit ulgy cause it's my first code in golang and I know it 
 but it works with http/https traffic and is keeping me away from unwanted 
 websites that try to save data to my computer.  
 
